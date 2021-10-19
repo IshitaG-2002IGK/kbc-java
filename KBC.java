@@ -10,8 +10,8 @@ class KBC//class name
  amount into array*/;
  static String s[]={"1 : Audience poll","2 : Phone a friend","3 : Expert Advice","4 : Double dip"};/*lifelines stored in
  string*/;
- public static void main(string[]args)throws IOException
- {
+    public static void main(string[]args)throws IOException
+    {
      display();//will call the method display
      database();//will call the method database
     }
